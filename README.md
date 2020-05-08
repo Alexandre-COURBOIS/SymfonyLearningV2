@@ -30,6 +30,8 @@ And i did the other repository SymfonyLearning (https://github.com/Alexandre-COU
 
                    Personnal work : COURBOIS Alexandre | Day :  {{ foo.createdAt | date('d/m/Y') }} | 08/05/2020
 
+--------------------------------------------------------------------------------------------------------------
+
                                                     Credits : 
                                                     
 Thanks to : Lior CHAMLA for all his lessons on youtube, you can found them here : 
