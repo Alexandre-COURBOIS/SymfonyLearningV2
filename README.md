@@ -4,7 +4,7 @@
 
 (Knowed things before, Procedural PHP / JS, POO PHP / JS, HTML, CSS, Jquery, cmd)
 
-And i did the other repository SymfonyLearning
+And i did the other repository SymfonyLearning (https://github.com/Alexandre-COURBOIS/SymfonyLearning)
 
                                                        On this project it's possible to : 
                                                        
